@@ -1,0 +1,70 @@
+{
+  "timestamp": "20250922_164533",
+  "outfits": [
+    {
+      "outfit_id": 1,
+      "score": 0.6702436547960554,
+      "description": "tops - shorts (Unknown) + tops - shorts (Unknown) + top - shirt (Unknown) + bottom - culottes (Unknown) + shoes - boots (Unknown) + accessories - necklaces (Unknown) + bag - tote (Unknown)",
+      "occasion": "casual",
+      "image_path": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/output/20250922_164533/outfit_1.jpg",
+      "items": [
+        {
+          "id": "user_20250921_175521_0ce5d664",
+          "category": "tops",
+          "subcategory": "shorts",
+          "color": "",
+          "style": "[\"minimalist\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-5/backend/recommendation_system/data/raw/images/19ea5020-91e3-4202-969e-ed5b30af2ed4.jpg"
+        },
+        {
+          "id": "user_20250921_175705_3ebb07e7",
+          "category": "tops",
+          "subcategory": "shorts",
+          "color": "",
+          "style": "[\"minimalist\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-5/backend/recommendation_system/data/raw/images/f531e868-0394-4e27-b62e-ea317b002065.jpg"
+        },
+        {
+          "id": "catalog_1020",
+          "category": "top",
+          "subcategory": "shirt",
+          "color": "",
+          "style": "[\"casual\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-3/backend/recommendation_system/data/output/organized/Top/Shirt/Screenshot 2025-09-20 at 1.14.16\u202fPM.png"
+        },
+        {
+          "id": "catalog_1146",
+          "category": "bottom",
+          "subcategory": "culottes",
+          "color": "",
+          "style": "[\"casual\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-3/backend/recommendation_system/data/output/organized/Bottom/Culottes/Screenshot 2025-09-20 at 1.03.19\u202fPM.png"
+        },
+        {
+          "id": "catalog_1115",
+          "category": "shoes",
+          "subcategory": "boots",
+          "color": "",
+          "style": "[\"casual\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-3/backend/recommendation_system/data/output/organized/Shoes/Boots/Screenshot 2025-09-20 at 1.25.14\u202fPM.png"
+        },
+        {
+          "id": "catalog_1054",
+          "category": "accessories",
+          "subcategory": "necklaces",
+          "color": "",
+          "style": "[\"casual\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-3/backend/recommendation_system/data/output/organized/Accessories/Necklaces/Screenshot 2025-09-20 at 1.37.24\u202fPM.png"
+        },
+        {
+          "id": "catalog_1103",
+          "category": "bag",
+          "subcategory": "tote",
+          "color": "",
+          "style": "[\"casual\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-3/backend/recommendation_system/data/output/organized/Bag/Tote/Screenshot 2025-09-20 at 1.41.04\u202fPM.png"
+        }
+      ]
+    }
+  ]
+}

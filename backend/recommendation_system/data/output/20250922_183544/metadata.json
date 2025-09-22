@@ -1,0 +1,38 @@
+{
+  "timestamp": "20250922_183544",
+  "outfits": [
+    {
+      "outfit_id": 1,
+      "score": 0.23199999999999998,
+      "description": "accessories - tote (Unknown) + accessories - bucket_bag (Unknown) + accessories - bracelets (Unknown)",
+      "occasion": "casual",
+      "image_path": null,
+      "items": [
+        {
+          "id": "1",
+          "category": "accessories",
+          "subcategory": "tote",
+          "color": "",
+          "style": "[\"boho\"]",
+          "filename": "56a6f879-a788-43ee-bf16-7cfe924bee06.jpg"
+        },
+        {
+          "id": "2",
+          "category": "accessories",
+          "subcategory": "bucket_bag",
+          "color": "",
+          "style": "[\"edgy\"]",
+          "filename": "fd7d254e-a5f0-450c-9a94-ec3fd9a4a706.jpg"
+        },
+        {
+          "id": "3",
+          "category": "accessories",
+          "subcategory": "bracelets",
+          "color": "",
+          "style": "[\"y2k\"]",
+          "filename": "64ff0526-8908-4d1a-8df2-249d0a415806.jpg"
+        }
+      ]
+    }
+  ]
+}

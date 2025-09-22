@@ -1,0 +1,46 @@
+{
+  "timestamp": "20250921_123918",
+  "outfits": [
+    {
+      "outfit_id": 1,
+      "score": 0.7456610078811645,
+      "description": "dress - cocktail_dress (Unknown) + shoes - heels (Unknown) + accessories - bracelets (Unknown) + bag - bucket_bag (Unknown)",
+      "occasion": "casual",
+      "image_path": "/Users/mishtyverma/closet-twin-style-3/backend/recommendation_system/data/output/20250921_123918/outfit_1.jpg",
+      "items": [
+        {
+          "id": "custom_005",
+          "category": "dress",
+          "subcategory": "cocktail_dress",
+          "color": "",
+          "style": "[\"party\", \"elegant\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-3/backend/recommendation_system/data/output/organized/Dress/Cocktail Dress/Screenshot 2025-09-20 at 1.07.22\u202fPM.png"
+        },
+        {
+          "id": "catalog_1139",
+          "category": "shoes",
+          "subcategory": "heels",
+          "color": "",
+          "style": "[\"casual\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-3/backend/recommendation_system/data/output/organized/Shoes/Heels/Screenshot 2025-09-20 at 1.23.38\u202fPM.png"
+        },
+        {
+          "id": "catalog_1057",
+          "category": "accessories",
+          "subcategory": "bracelets",
+          "color": "",
+          "style": "[\"casual\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-3/backend/recommendation_system/data/output/organized/Accessories/Bracelets/Screenshot 2025-09-20 at 1.34.43\u202fPM.png"
+        },
+        {
+          "id": "custom_004",
+          "category": "bag",
+          "subcategory": "bucket_bag",
+          "color": "",
+          "style": "[\"casual\", \"trendy\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-3/backend/recommendation_system/data/output/organized/Bag/Bucket Bag/Screenshot 2025-09-20 at 1.42.33\u202fPM.png"
+        }
+      ]
+    }
+  ]
+}

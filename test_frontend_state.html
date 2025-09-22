@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Frontend State Test</title>
+</head>
+<body>
+    <h1>Frontend State Test</h1>
+    <p>Testing if the frontend is loading the updated OutfitRecommendations component...</p>
+    
+    <script>
+        // Test if the frontend is accessible
+        fetch('http://localhost:8080')
+            .then(response => response.text())
+            .then(html => {
+                console.log('Frontend is accessible');
+                document.body.innerHTML += '<p style="color: green;">✅ Frontend is running on port 8080</p>';
+            })
+            .catch(error => {
+                console.error('Frontend not accessible:', error);
+                document.body.innerHTML += '<p style="color: red;">❌ Frontend not accessible: ' + error + '</p>';
+            });
+    </script>
+</body>
+</html>

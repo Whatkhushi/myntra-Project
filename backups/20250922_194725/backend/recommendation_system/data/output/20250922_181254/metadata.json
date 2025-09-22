@@ -1,0 +1,62 @@
+{
+  "timestamp": "20250922_181254",
+  "outfits": [
+    {
+      "outfit_id": 1,
+      "score": 0.3239999999999999,
+      "description": "shoes - boots (Unknown) + bag - bucket_bag (Unknown) + bottom - jeans (Unknown) + accessories - belts (Unknown) + bottom - skirt (Unknown) + top - t_shirt (Unknown)",
+      "occasion": "casual",
+      "image_path": "data/output/20250922_181254/outfit_1.jpg",
+      "items": [
+        {
+          "id": "item_000",
+          "category": "shoes",
+          "subcategory": "boots",
+          "color": "",
+          "style": "[\"edgy\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/output/organized/Shoes/Boots/6f47ac53-e481-4723-b55e-6403c217b4c7.jpg"
+        },
+        {
+          "id": "item_005",
+          "category": "bag",
+          "subcategory": "bucket_bag",
+          "color": "",
+          "style": "[\"edgy\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/output/organized/Bag/Bucket Bag/8bbd224a-c278-4493-82e0-90cc47e72952.jpg"
+        },
+        {
+          "id": "item_008",
+          "category": "bottom",
+          "subcategory": "jeans",
+          "color": "",
+          "style": "[\"edgy\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/output/organized/Bottom/Jeans/1fdb6017-40f6-49b9-a28e-11dabbf41165.jpg"
+        },
+        {
+          "id": "item_010",
+          "category": "accessories",
+          "subcategory": "belts",
+          "color": "",
+          "style": "[\"edgy\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/output/organized/Accessories/Belts/eaf61c96-d4ad-4687-aed9-bdd897287d70.jpg"
+        },
+        {
+          "id": "item_011",
+          "category": "bottom",
+          "subcategory": "skirt",
+          "color": "",
+          "style": "[\"edgy\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/output/organized/Bottom/Skirt/32b0024d-95ce-464f-8289-1fa5d9ce3881.jpg"
+        },
+        {
+          "id": "item_007",
+          "category": "top",
+          "subcategory": "t_shirt",
+          "color": "",
+          "style": "[\"grunge\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/output/organized/Top/T Shirt/875b8e80-01fa-4755-a35d-30372b92f281.jpg"
+        }
+      ]
+    }
+  ]
+}

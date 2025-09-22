@@ -1,0 +1,62 @@
+{
+  "timestamp": "20250921_123827",
+  "outfits": [
+    {
+      "outfit_id": 1,
+      "score": 0.7167636715571085,
+      "description": "dresses - mini_dress (Unknown) + top - bodysuit (Unknown) + bottom - culottes (Unknown) + shoes - heels (Unknown) + accessories - bracelets (Unknown) + bag - hobo (Unknown)",
+      "occasion": "casual",
+      "image_path": "/Users/mishtyverma/closet-twin-style-3/backend/recommendation_system/data/output/20250921_123827/outfit_1.jpg",
+      "items": [
+        {
+          "id": "new_20250921_123712_21575903",
+          "category": "dresses",
+          "subcategory": "mini_dress",
+          "color": "",
+          "style": "[\"formal\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-3/backend/recommendation_system/data/output/organized/Dresses/Screenshot 2025-09-20 at 1.18.59\u202fPM_20250921_123710.png"
+        },
+        {
+          "id": "catalog_1014",
+          "category": "top",
+          "subcategory": "bodysuit",
+          "color": "",
+          "style": "[\"casual\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-3/backend/recommendation_system/data/output/organized/Top/Bodysuit/image copy 17.png"
+        },
+        {
+          "id": "catalog_1148",
+          "category": "bottom",
+          "subcategory": "culottes",
+          "color": "",
+          "style": "[\"casual\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-3/backend/recommendation_system/data/output/organized/Bottom/Culottes/Screenshot 2025-09-20 at 1.00.00\u202fPM.png"
+        },
+        {
+          "id": "catalog_1139",
+          "category": "shoes",
+          "subcategory": "heels",
+          "color": "",
+          "style": "[\"casual\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-3/backend/recommendation_system/data/output/organized/Shoes/Heels/Screenshot 2025-09-20 at 1.23.38\u202fPM.png"
+        },
+        {
+          "id": "catalog_1056",
+          "category": "accessories",
+          "subcategory": "bracelets",
+          "color": "",
+          "style": "[\"casual\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-3/backend/recommendation_system/data/output/organized/Accessories/Bracelets/image copy 8.png"
+        },
+        {
+          "id": "catalog_1096",
+          "category": "bag",
+          "subcategory": "hobo",
+          "color": "",
+          "style": "[\"casual\"]",
+          "filename": "/Users/mishtyverma/closet-twin-style-3/backend/recommendation_system/data/output/organized/Bag/Hobo/image copy 9.png"
+        }
+      ]
+    }
+  ]
+}

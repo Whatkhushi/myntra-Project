@@ -1,0 +1,85 @@
+{
+  "raw_images_count": 15,
+  "processed_count": 15,
+  "style_csv_items": 15,
+  "wardrobe_items": 15,
+  "catalog_items": 0,
+  "generated_at": "2025-09-22T17:22:12.569488",
+  "image_mapping": {
+    "raw_000": {
+      "filename": "6f47ac53-e481-4723-b55e-6403c217b4c7.jpg",
+      "path": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/raw/images/6f47ac53-e481-4723-b55e-6403c217b4c7.jpg",
+      "category": "shoes"
+    },
+    "raw_001": {
+      "filename": "c6a0f003-5460-49e3-9d27-392639200f1a.jpg",
+      "path": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/raw/images/c6a0f003-5460-49e3-9d27-392639200f1a.jpg",
+      "category": "dress"
+    },
+    "raw_002": {
+      "filename": "ce0db761-faa4-49c2-81d2-79358f5276d6.jpg",
+      "path": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/raw/images/ce0db761-faa4-49c2-81d2-79358f5276d6.jpg",
+      "category": "top"
+    },
+    "raw_003": {
+      "filename": "adf9d71b-45fa-4a93-80bb-9fd993a2579f.jpg",
+      "path": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/raw/images/adf9d71b-45fa-4a93-80bb-9fd993a2579f.jpg",
+      "category": "dress"
+    },
+    "raw_004": {
+      "filename": "4155622b-fa1f-4dd3-bc7d-da9bf06ffbee.jpg",
+      "path": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/raw/images/4155622b-fa1f-4dd3-bc7d-da9bf06ffbee.jpg",
+      "category": "dress"
+    },
+    "raw_005": {
+      "filename": "8bbd224a-c278-4493-82e0-90cc47e72952.jpg",
+      "path": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/raw/images/8bbd224a-c278-4493-82e0-90cc47e72952.jpg",
+      "category": "bag"
+    },
+    "raw_006": {
+      "filename": "0e8b9922-5289-4219-b620-642f7f7ea947.jpg",
+      "path": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/raw/images/0e8b9922-5289-4219-b620-642f7f7ea947.jpg",
+      "category": "bag"
+    },
+    "raw_007": {
+      "filename": "875b8e80-01fa-4755-a35d-30372b92f281.jpg",
+      "path": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/raw/images/875b8e80-01fa-4755-a35d-30372b92f281.jpg",
+      "category": "top"
+    },
+    "raw_008": {
+      "filename": "1fdb6017-40f6-49b9-a28e-11dabbf41165.jpg",
+      "path": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/raw/images/1fdb6017-40f6-49b9-a28e-11dabbf41165.jpg",
+      "category": "bottom"
+    },
+    "raw_009": {
+      "filename": "20ad24c6-c85f-43e1-b57d-60624d9bf4be.jpg",
+      "path": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/raw/images/20ad24c6-c85f-43e1-b57d-60624d9bf4be.jpg",
+      "category": "outerwear"
+    },
+    "raw_010": {
+      "filename": "eaf61c96-d4ad-4687-aed9-bdd897287d70.jpg",
+      "path": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/raw/images/eaf61c96-d4ad-4687-aed9-bdd897287d70.jpg",
+      "category": "accessories"
+    },
+    "raw_011": {
+      "filename": "32b0024d-95ce-464f-8289-1fa5d9ce3881.jpg",
+      "path": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/raw/images/32b0024d-95ce-464f-8289-1fa5d9ce3881.jpg",
+      "category": "bottom"
+    },
+    "raw_012": {
+      "filename": "3d183c12-2566-444b-8253-ee696a9dcc13.jpg",
+      "path": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/raw/images/3d183c12-2566-444b-8253-ee696a9dcc13.jpg",
+      "category": "dress"
+    },
+    "raw_013": {
+      "filename": "9bba6daa-f023-4ccc-b629-11b9bdf622a8.jpg",
+      "path": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/raw/images/9bba6daa-f023-4ccc-b629-11b9bdf622a8.jpg",
+      "category": "accessories"
+    },
+    "raw_014": {
+      "filename": "955fb09e-2d71-4cc6-a06c-0bfc1cff9672.jpg",
+      "path": "/Users/mishtyverma/closet-twin-style-6/backend/recommendation_system/data/raw/images/955fb09e-2d71-4cc6-a06c-0bfc1cff9672.jpg",
+      "category": "bottom"
+    }
+  }
+}
